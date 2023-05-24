@@ -250,8 +250,6 @@ if __name__ == '__main__':
     arbol = ArbolAVL()
     arbol.insertar("hola")
     arbol.insertar("cola")
-    arbol.insertar("zorra")
-    arbol.insertar("perra")
     arbol.insertar("hola")
     arbol.inorden()
     arbol.inorden()
